@@ -6,6 +6,6 @@ class Backer
   end
   
   def back_project(project)
-    
+    awesome_project = Backer.new(project)
   end
 end
